@@ -12226,11 +12226,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\everl\\3D Objects\\Universidad\\Universidad\\Universidad.csproj",
+      "projectUniqueName": "C:\\Users\\everl\\3D Objects\\WebII_IIC2018\\Universidad\\Universidad\\Universidad.csproj",
       "projectName": "Universidad",
-      "projectPath": "C:\\Users\\everl\\3D Objects\\Universidad\\Universidad\\Universidad.csproj",
+      "projectPath": "C:\\Users\\everl\\3D Objects\\WebII_IIC2018\\Universidad\\Universidad\\Universidad.csproj",
       "packagesPath": "C:\\Users\\everl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\everl\\3D Objects\\Universidad\\Universidad\\obj\\",
+      "outputPath": "C:\\Users\\everl\\3D Objects\\WebII_IIC2018\\Universidad\\Universidad\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
